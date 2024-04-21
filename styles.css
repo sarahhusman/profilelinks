@@ -73,7 +73,7 @@ body {
     gap: 10%;
 }
 
-@media screen and (min-width: 650px) and (max-width: 1440px) {
+@media screen and (min-width: 376px) and (max-width: 1440px) {
     body {
       font-size: 14px;
     }
